@@ -32,6 +32,8 @@ This GitHub repository will contain the code used on my Bachelor Thesis at Const
 The point of this thesis is to, basically, compare AI models to XAI models and arrive at a conclusion.
 The used database is a combination of data retrieved from FAO and DWD.
 
+!!STILL A WORK IN PROGRESS!!
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
