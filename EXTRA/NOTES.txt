@@ -1,0 +1,14 @@
+Have a good sample of crops, and classify which crops are affected by climate change
+column, represents events (el nino, la nina, neutral)
+try location (northern germany, southern germany)
+add more data variables
+all possible climate data
+climate events
+
+contact person from hendro for climate data abashyal@constructor.university
+
+
+LITERATURE REVIEW
+Comparison of this articles
+( TITLE-ABS-KEY ( explainable OR interpretable OR understandable OR responsible OR trustable ) AND TITLE-ABS-KEY ( "artificial intelligence" OR "machine learning" OR "Data Mining" OR "deep learning" ) AND TITLE-ABS-KEY("crop yield prediction" ) ) -> get 9 articles
+(TITLE-ABS-KEY ( "artificial intelligence" OR "machine learning" OR "Data Mining" OR "deep learning" ) AND TITLE-ABS-KEY("crop yield prediction" ) ) -> almost 400
