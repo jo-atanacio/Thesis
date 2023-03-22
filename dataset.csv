@@ -1,4 +1,4 @@
-,Year,Item,Yield (tonnes/ha),Harvest (ha),Production (tonnes),Change (C),Annual Mean Precipitation,Air Temp Mean,Frost Days,Hot Days,Ice Days,Summer Days,Sunshine Duration,Tropical Nights,monthly average
+,Year,Item,Yield (tonnes/ha),Harvest (ha),Production (tonnes),Change (C),Annual Mean Precipitation,Air Temp Mean,Frost Days,Hot Days,Ice Days,Summer Days,Sunshine Duration,Tropical Nights,Monthly Average
 0,1961,Barley,2.364,1552018,3669020.0,0.99,779.53,8.94,72.64,3.97,20.91,26.75,0.17833333333333334,0.0,317.64416666666665
 1,1961,"Beans, dry",1.8841,6737,12693.0,0.99,779.53,8.94,72.64,3.97,20.91,26.75,0.17833333333333334,0.0,317.64416666666665
 2,1961,"Broad beans and horse beans, dry",2.3147,34951,80900.0,0.99,779.53,8.94,72.64,3.97,20.91,26.75,0.17833333333333334,0.0,317.64416666666665
