@@ -1,4 +1,4 @@
-,Year,Item,Yield (tonnes/ha),Harvest (ha),Production (tonnes),Change (C),Annual Mean Precipitation,Air Temp Mean,Frost Days,Hot Days,Ice Days,Summer Days,Sunshine Duration,Tropical Nights,Monthly Average,Devil,Gustnado,Hail,Ice,Precip,Snow,Tornado,Wind,Total
+,Year,Item,Yield (tonnes/ha),Harvest (ha),Production (tonnes),Change (C),Annual Mean Precipitation,Air Temp Mean,Frost Days,Hot Days,Ice Days,Summer Days,Sunshine Duration,Tropical Nights,Mean CO2 (ppm),Devil,Gustnado,Hail,Ice,Precip,Snow,Tornado,Wind,Total
 0,1980,Asparagus,2.2023,6381,14053.0,-0.19,771.58,7.63,103.61,1.45,30.73,16.18,0.16482876712328767,0.02,338.7625,0,0,6,0,8,1,27,12,54
 1,1980,Barley,4.3104,2970671,12804914.0,-0.19,771.58,7.63,103.61,1.45,30.73,16.18,0.16482876712328767,0.02,338.7625,0,0,6,0,8,1,27,12,54
 2,1980,"Broad beans and horse beans, green",10.4409,1016,10608.0,-0.19,771.58,7.63,103.61,1.45,30.73,16.18,0.16482876712328767,0.02,338.7625,0,0,6,0,8,1,27,12,54
